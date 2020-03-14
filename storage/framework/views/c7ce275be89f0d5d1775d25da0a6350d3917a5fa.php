@@ -1,0 +1,2 @@
+
+<?php echo $__env->make('home', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\laravel\Metrobarbers\resources\views/userprofile.blade.php ENDPATH**/ ?>
